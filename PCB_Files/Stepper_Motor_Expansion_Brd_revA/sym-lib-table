@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Stepper_Motor_Expansion_Brd_revA")(type "KiCad")(uri "${KIPRJMOD}/Library_Stepper_Motor_Expansion_Brd_revA/Stepper_Motor_Expansion_Brd_revA.kicad_sym")(options "")(descr ""))
+  (lib (name "CTP_Display_CANbus_revA")(type "KiCad")(uri "D:/TI Arm Microprocessor/Beaglebone Black/PCB Files/My Custom Capes/CTP_Display_CANbus_revA/Library_CTP_Display_CANbus_revA/CTP_Display_CANbus_revA.kicad_sym")(options "")(descr ""))
+)
