@@ -1,0 +1,14 @@
+Ref;Val;Package;PosX(mm);PosY(mm);Rot;Side
+C7;100nF;C_0402_1005Metric;38,49;28,73;90;top
+C8;100nF;C_0402_1005Metric;27,2;27,99;90;top
+C10;100uF;CP_Elec_6.3x7.7(EMZR500ARA101MF80G);33,8;16,4;270;top
+D1;Vz = 6V;D_SMB(DO-214AA);13,48;40,74;0;top
+JP1;Jumper_2_Open;PinHeader_1x02_P2.54mm_Vertical;24,56;20,53;0;top
+P1;MCU Supply;TerminalBlock-2_P5.00mm(TB002-500-02BE);13,51;50,92;180;top
+P2;CAN;TerminalBlock-2_P3.50mm(OSTTE020104);57,97;51,04;180;top
+P3;Motor Supply & Phase;TerminalBlock_Wuerth-6_P5.00mm(1137710006);29,4;6,55;0;top
+R1;120;R_0603_1608Metric_Pad0.98x0.95mm;57,97;43,9;180;top
+R2;10k;R_0603_1608Metric_Pad0.98x0.95mm;47,05;33,53;180;top
+R3;20k;R_0603_1608Metric_Pad0.98x0.95mm;24,03;33,15;270;top
+R4;20k;R_0603_1608Metric_Pad0.98x0.95mm;20,5;31,33;270;top
+U1;SN65HVD230;SOIC-8_3.9x4.9mm_P1.27mm;54,21;30,59;90;top
