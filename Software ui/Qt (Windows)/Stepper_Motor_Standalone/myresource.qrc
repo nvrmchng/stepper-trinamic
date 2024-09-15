@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/electric_motor.png</file>
+        <file>images/power_button.png</file>
+        <file>images/standalone_setting.png</file>
+        <file>images/play_icon_25x25.png</file>
+        <file>images/stop_icon_25x25.png</file>
+        <file>images/send_icon_30x30.png</file>
+    </qresource>
+</RCC>

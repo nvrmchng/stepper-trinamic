@@ -1,0 +1,10 @@
+release/controlwindow.o
+release/main.o
+release/background.o
+release/settingwindow.o
+release/sidebar.o
+release/qrc_myresource.o
+release/moc_background.o
+release/moc_controlwindow.o
+release/moc_settingwindow.o
+release/moc_sidebar.o

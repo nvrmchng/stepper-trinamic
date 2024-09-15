@@ -1,0 +1,10 @@
+debug/controlwindow.o
+debug/main.o
+debug/background.o
+debug/settingwindow.o
+debug/sidebar.o
+debug/qrc_myresource.o
+debug/moc_background.o
+debug/moc_controlwindow.o
+debug/moc_settingwindow.o
+debug/moc_sidebar.o
