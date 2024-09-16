@@ -111,13 +111,13 @@ void ControlWindow::setupUi()
     dir_cw = new QRadioButton();
     dir_cw->setParent(this);
     dir_cw->setText("Clockwise");
-    dir_cw->move(75,128);
+    dir_cw->move(78,125);
 
     dir_ccw = new QRadioButton();
     dir_ccw->setParent(this);
     dir_ccw->setChecked(true);
     dir_ccw->setText("CounterClockwise");
-    dir_ccw->move(200,128);
+    dir_ccw->move(200,125);
 
     label_start_stop = new QLabel("Start/Stop:");
     label_start_stop->setParent(this);
